@@ -1,6 +1,9 @@
 # Lukas Kosiński - Qt Framework :green_heart: enthusiast
+![Lukas Kosiński](assets/kosadev.jpg "Łukasz Kosiński")
 
 ## Scythe Studio - my company :office:
+![Scythe Studio GitHub](assets/scythestudio-logo.png "Scythe Studio GitHub")
+
 I've been working as a Qt software development on a regular basis for some time. 
 Due to my passion for Qt technology and the eternal hunger to realise next projects I've started the **Scythe Studio company - the software house specialized in Qt framework**.
 
