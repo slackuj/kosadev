@@ -33,7 +33,7 @@ I believe that community input is crucial for future of the Qt framework. Theref
 
 In [this blog post](https://scythe-studio.com/en/blog/qt-charts-in-qt-6-2) I've described changes that we (in Scythe Studio) have done to Qt Charts in Qt 6.2.
 
-## Follow me :postbox
+## Follow me 📮
 
 - :globe_with_meridians: [My company website](https://scythe-studio.com/)
 - 🇵🇱 [My blog in native language](https://binarnie.pl/)
