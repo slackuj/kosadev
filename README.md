@@ -5,9 +5,9 @@
 ![Scythe Studio GitHub](assets/scythestudio-logo.png "Scythe Studio GitHub")
 
 I've been working as a Qt software development on a regular basis for some time. 
-Due to my passion for Qt technology and the eternal hunger to realise next projects I've started the **Scythe Studio company - the software house specialized in Qt framework**.
+Due to my passion for Qt technology and the eternal hunger to realise next projects. I've started the **Scythe Studio company - the software house specialized in Qt framework**.
 
-Now we are nearly 20 people and I do not code that much due to other responsibilities. However, I have more time now to work on oepn source projects and to createconent for
+Now we are nearly 20 people and I do not code that much due to other responsibilities. However, I have more time now to work on open source projects and to create conent for
 the community.
 
 Scythe Studio is an official Qt Service Partner and a provider of Qt Software Development services including:
